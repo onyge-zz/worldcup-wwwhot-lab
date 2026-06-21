@@ -1,2 +1,14 @@
 # worldcup-wwwhot-lab
-HTML page archive and documentation
+
+自动生成页面存放处
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
